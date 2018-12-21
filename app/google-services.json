@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1068480940106",
+    "firebase_url": "https://machinelearning-b0e9f.firebaseio.com",
+    "project_id": "machinelearning-b0e9f",
+    "storage_bucket": "machinelearning-b0e9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068480940106:android:e525ddb600410669",
+        "android_client_info": {
+          "package_name": "pradyot.prakash.com.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068480940106-ormgcb5kbgj48go1h9h8f51cbca9cah1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pradyot.prakash.com.textrecognition",
+            "certificate_hash": "7f87ccbf631146b8d9bbd74c5619d4d06a11f70f"
+          }
+        },
+        {
+          "client_id": "1068480940106-snp81n5a61mgr5l01t5ofh53urf1ucjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9buBAzNRAnjCBeWe2uestpFfgZIDf-wI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068480940106-snp81n5a61mgr5l01t5ofh53urf1ucjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

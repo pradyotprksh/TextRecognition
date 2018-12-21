@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextRecognition</string>
+    <string name="text_in_the_image">Text in the image</string>
+    <string name="no_text">No text Recognised</string>
+</resources>
